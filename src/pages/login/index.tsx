@@ -85,7 +85,7 @@ const Login = () => {
                 className='font-medium text-indigo-600 hover:text-indigo-500'
               >
                 {' '}
-                Forgot your password?{' '}
+                Forgot your passwordd?{' '}
               </a>
             </div>
           </div>
